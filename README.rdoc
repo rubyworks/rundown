@@ -1,0 +1,43 @@
+= Rundown
+
+{Website}[http://rubyworks.github.com/rundown]
+{Development}[http://gitub.com/rubyworks/rundown]
+
+
+== Description
+
+Rundown is a Javascript RDoc markup to HTML convertor.
+If is based on Showdown, the javascipt Markdown library.
+
+Development is being done feature by feature. Currently
+headers and links have been adapted to RDoc markup. Where
+possible we are keeping Markdown support so it will be a 
+superset of RDoc making it a bit more flexible.
+
+
+== Please Contribute
+
+The more others contribute to Rundown, the sooner full RDoc compability
+will be acheived. As I am not a markup parser expert (nor a Javascript
+expert for that matter), on my own I will only be implementing features
+as I need them, and have time to work on it. So your contributions will
+have a significant impact on this project.
+
+
+== Contributors
+
+Rundown is very much a contributor's project, so ackowledgment
+of everyone who has contributed are in order.
+
+* Thomas Sawyer
+* Corey Innis
+* John Fraser
+
+
+== Copyrights
+
+Rundown - Copyright (c) 2011 Thomas Sawyer, Rubyworks
+
+Showdown - Copyright (c) 2007 John Fraser
+
+
