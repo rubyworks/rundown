@@ -1,0 +1,12 @@
+{
+  "name": "rundown",
+  "version": "0.0.1",
+  "description": "RDoc parser for Javacript.",
+  "main": "rundown.js",
+  "keywords": ["rubyworks","rdoc","ruby"],
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/rubyworks/rundown.git"
+  } 
+}
+
