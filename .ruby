@@ -22,9 +22,9 @@ resources:
   Source Code: http://github.com/rubyworks/rundown
 
 repositories:
-- uri: git://github.com/rubyworks/rundown.git
-  scm: git
-  name: upstream
+  - uri: git://github.com/rubyworks/rundown.git
+    scm: git
+    name: upstream
 
 copyrights:
   - year: 2011
