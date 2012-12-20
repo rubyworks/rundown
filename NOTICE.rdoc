@@ -3,7 +3,7 @@
 == Rundown
 
 Copyright:: (c) 2011 Thomas Sawyer, Rubyworks
-License:: BSD-2-Clause
+License:: BSD-3-Clause
 Website:: http://rubyworks.github.com/rundown
 
     Copyright (c) 2011 Thomas Sawyer, Rubyworks
@@ -81,5 +81,4 @@ Website:: http://www.attacklab.net/showdown
 
 Copyright:: (c) 2004 John Gruber  
 Website:: http://daringfireball.net
-
 

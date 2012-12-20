@@ -36,8 +36,11 @@ of everyone who has contributed are in order.
 
 == Copyrights
 
-Rundown - Copyright (c) 2011 Thomas Sawyer, Rubyworks
+Rundown is copyrighted open source software.
 
-Showdown - Copyright (c) 2007 John Fraser
+* Copyright (c) 2011 Rubyworks
+* Copyright (c) 2007 John Fraser
+* Copyright (c) 2004 John Gruber
 
-See COPYING.rdoc for details.
+See NOTICE.rdoc for details.
+
